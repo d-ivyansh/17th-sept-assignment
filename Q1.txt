@@ -1,0 +1,6 @@
+HTML5 is a markup language used to structure and present content on the World Wide Web. It's the fifth and final major HTML version recommended by the World Wide Web Consortium
+features are-
+1>Semantic elements- HTML5 elements enhance web pages' semantic structure and functionality by providing a more descriptive and meaningful way to organize content.
+2>Canvas- HTML5 introduces new graphics elements, including Canvas and SVG, which allow developers to create and manipulate graphics and animations
+3>Offlineline browsing- HTML5 provides a new offline storage feature that enables web applications to store data locally on the user's device, allowing them to work without internet
+and many more

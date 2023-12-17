@@ -1,0 +1,22 @@
+Accessibility is the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, 
+but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
+
+Here are some benefits of making a website accessible: 
+
+Ethical: It's the right thing to do
+Broader reach: Increases audience size
+Legal: Avoids the risk of lawsuits
+SEO: Boosts search engine ranking
+Demographic: Aging population wants access
+User experience: Better experience for all users
+
+
+Here are some ways to make a website more accessible: 
+
+Add images with alt text
+Allow users to enlarge font sizes
+Keep contrast sensitivity in mind
+Add keyboard navigation
+Make video and multimedia accessible
+Use descriptive URLs
+Use ARIA roles
